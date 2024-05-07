@@ -2,6 +2,7 @@
 /storage/framework/testing
 .env
 .phpunit.result.cache
+.phpunit.cache
 npm-debug.log
 yarn-error.log
 composer.lock
